@@ -1,8 +1,8 @@
 # Semantic Segmentation + Gaussian Processes for OCT Image Processing
 
-This repository contains supplementary material for the paper "Deep Learning based Retinal OCT Segmentation" [arXiv link](TODO).
+This repository contains supplementary material for the paper "Deep Learning based Retinal OCT Segmentation" [arXiv link coming soon](TODO).
 
-## Data Set
+## Data 
 
 ### Optical Coherence Tomography (OCT) Images
 
